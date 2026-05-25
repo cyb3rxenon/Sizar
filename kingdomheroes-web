@@ -1,7 +1,0 @@
-cd C:\devmaple\kingdomheroes\frontend
-git init
-git add index.html
-git commit -m "Add KingdomHeroes website"
-git branch -M main
-git remote add origin https://github.com/cyb3rxenon/kingdomheroes-web.git
-git push -u origin main
